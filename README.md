@@ -5,9 +5,9 @@ Este é um sistema de reservas online desenvolvido em Java.
 ## Funcionalidades
 
 - **Cadastro de Usuário:** Os usuários podem se registrar no sistema para fazer reservas.
-- **Reserva de Serviços:** Os usuários podem escolher entre diferentes tipos de serviços para reservar.
 - **Gerenciamento de Reservas:** Os usuários podem visualizar, editar e cancelar suas reservas.
 - **Administração:** Os administradores têm acesso a um painel de administração para gerenciar usuários, serviços e reservas.
+  
 
 ## Requisitos
 
