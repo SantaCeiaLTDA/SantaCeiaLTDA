@@ -1,16 +1,30 @@
-## Hi there 👋
+# Sistema de Reservas Online
 
-<!--
-**SantaCeiaLTDA/SantaCeiaLTDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este é um sistema de reservas online desenvolvido em Java.
 
-Here are some ideas to get you started:
+## Funcionalidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Cadastro de Usuário:** Os usuários podem se registrar no sistema para fazer reservas.
+- **Reserva de Serviços:** Os usuários podem escolher entre diferentes tipos de serviços para reservar.
+- **Gerenciamento de Reservas:** Os usuários podem visualizar, editar e cancelar suas reservas.
+- **Administração:** Os administradores têm acesso a um painel de administração para gerenciar usuários, serviços e reservas.
+
+## Requisitos
+
+- JDK (Java Development Kit) instalado
+- IDE (Integrated Development Environment) de sua escolha (Eclipse, IntelliJ IDEA, NetBeans, etc.)
+- Conhecimento básico de programação Java
+    
+## Contribuição
+
+Se você quiser contribuir para este projeto, siga as etapas abaixo:
+
+1. Faça um fork do projeto.
+2. Crie uma branch para sua feature: `git checkout -b feature-nova`
+3. Faça commit das suas alterações: `git commit -am 'Adicionar nova feature'`
+4. Faça push para a branch: `git push origin feature-nova`
+5. Envie um Pull Request.
+
+## Contato
+
+Para mais informações ou dúvidas, entre em contato através do email contato@santaceia.com.
